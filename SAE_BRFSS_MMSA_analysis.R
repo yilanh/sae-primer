@@ -551,7 +551,7 @@ legend(
 )
 
 mtext(
-  "A)",
+  "(a)",
   side = 3,
   line = 1,
   adj = 0,
@@ -613,7 +613,7 @@ legend(
 )
 
 mtext(
-  "B)",
+  "(b)",
   side = 3,
   line = 1,
   adj = 0,

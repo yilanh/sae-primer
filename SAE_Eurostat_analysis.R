@@ -431,8 +431,8 @@ plot_data <- map_data %>%
         "direct_estimate"
       ),
       labels = c(
-        "(A) Fay-Herriot SAE",
-        "(B) Direct estimate"
+        "(a) Fay-Herriot SAE",
+        "(b) Direct estimate"
       )
     )
   )
